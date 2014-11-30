@@ -1,0 +1,28 @@
+{
+    "name": "grunt-setup",
+    "version": "0.0.0",
+    "description": "Grunt Setup",
+    "main": "main.js",
+    "scripts": {
+        "test": "testing"
+    },
+    "repository": {
+        "type": "git",
+        "url": "puginabox@github.com/frontend-setup.git"
+    },
+    "keywords": [
+        "git",
+        "grunt",
+        "npm",
+        "bower"
+    ],
+    "author": "Griffin Byron",
+    "license": "MIT",
+    "devDependencies": {
+        "bower": "*",
+        "grunt": "*"
+    },
+    "dependencies": {
+        "express": "*"
+    }
+}
