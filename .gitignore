@@ -1,6 +1,6 @@
 #.gitignore template
 
-www
+#www
 node_modules
 vendor
 js/lib

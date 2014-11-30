@@ -25,9 +25,9 @@
     ],
     "dependencies": {
         "jquery": "*",
-        "requirejs": "*",
         "angularjs": "*",
         "angular-route": "*",
+        "angular-sanitize": "*",
         "modernizr": "*",
         "foundation": "*"
     }
